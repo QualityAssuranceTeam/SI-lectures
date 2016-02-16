@@ -1,0 +1,38 @@
+pwd – Displays the directory name of your current location in the hierarchy
+cd – Changes your location in the hierarchy to another directory
+ls – Sees what files and directories are under the current directory
+ls –la
+ll
+tail – Display the end of file
+tail -f
+tail -fn <x>
+less – Look at the content of a file
+cat – Look at the content of a file (read only)
+vi – Text editor
+cp – Copy a file
+mv - Move or rename files
+rm - Remove a file / directory
+rm -rf
+mkdir – Creates  a directory
+rmdir – Removes a directory
+date – Display system time and date
+find – Finds files
+find <directory> -name <name of the file>
+df - Report free disk space
+chown – change to owner of a file
+chmod – change the file access
+su – switch user identifier
+curl – Transfer data from and to server
+history – Display the command history
+ps – Display information about running/sleeping processes in the system
+ps –ef
+ps aux
+top - Information about the running processes and the system, in realtime
+grep – Searches for lines that contain a pattern
+kill – Sends a signal to specifying process, can be used to terminate  it
+kill -9
+rpm – package manager used to build, install, query, verify, update, and erase individual software packages
+rpm –qa – list all installed packages
+rpm –ivh – installs rpm package
+ssh – establishes ssh connection to remote host
+ssh <user>@<host>
